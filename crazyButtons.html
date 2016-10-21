@@ -30,6 +30,19 @@
       <button class="coloredButton" type="button">Color Button</button>
     </section>
     <section></section>
-    <footer></footer>
+ <script>
+	counter = 0;
+  $(document).ready(function(){
+    $(".coloredButton").click(function(){
+    	if (counter % 2 === 0){
+        	$("html, body").css("background-color", "brown");
+        }
+        else {
+        	$("html, body").css("background-color", "red")
+        }
+        counter++;
+    });
+  });
+</script>   <footer></footer>
   </body>
 </html>
