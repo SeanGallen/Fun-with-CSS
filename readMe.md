@@ -1,3 +1,1 @@
-Working on some CSS and SVG.
-
-I am going to be working on Vivus and later Vue so here is some work basic work as I build up.
+Right now, I working on some CSS, Jquery and some of CSS's frameworks.
