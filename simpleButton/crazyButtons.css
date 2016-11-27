@@ -17,7 +17,7 @@ html, body {
   margin-right: auto;
   left: 0;
   right: 0;
-  top: 40%;
+  top: 25%;
   width: 100px;
   height: 100px;
 }
@@ -31,12 +31,12 @@ html, body {
   margin-right: auto;
   left: 0;
   right: 0;
-  top: 25%;
+  top: 55%;
   width: 100px;
   height: 100px;
 }
 
-.shapeButton {
+.squareItButton {
   background-color: lightblue;
   border-radius: 55%;
   border: 2px solid lightblue;
@@ -45,7 +45,21 @@ html, body {
   margin-right: auto;
   left: 0;
   right: 0;
-  top: 55%;
+  top: 40%;
+  width: 100px;
+  height: 100px;
+}
+
+.thanksgivingButton {
+  background-color: lightblue;
+  border-radius: 55%;
+  border: 2px solid lightblue;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  top: 70%;
   width: 100px;
   height: 100px;
 }
