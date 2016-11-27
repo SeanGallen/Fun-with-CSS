@@ -1,1 +1,1 @@
-Right now, I working on some CSS, Jquery and some of CSS's frameworks.
+Right now, I am working on some CSS, Jquery and later some of CSS's frameworks.
