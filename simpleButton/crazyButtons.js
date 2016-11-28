@@ -52,4 +52,17 @@ $(document).ready(function(){
     shapeCounter++;
   });
 
+  $(".moveItButton").click(function(){
+      anime({
+        targets: '#button',
+        rotate: {
+          value: 300,
+          duration: 1500,
+          easing: 'easeInOutQuad'
+        },
+        translateX: [50, 250],
+        direction: 'alternate',
+      });
+  });
+
 });

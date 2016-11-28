@@ -19,18 +19,22 @@ html, body {
 }
 
 .coloredButton {
-  top: 25%;
+  top: 15%;
 }
 
 .invisibleButton {
-  top: 55%;
+  top: 45%;
 }
 
 .squareItButton {
-  top: 40%;
+  top: 30%;
+}
+.thanksgivingButton {
+  top: 60%;
 }
 
-.thanksgivingButton {
-  top: 70%;
+.moveItButton {
+  top: 75%;
 }
+
 button:focus {outline:0;}
