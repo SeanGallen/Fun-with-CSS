@@ -16,25 +16,26 @@ html, body {
   right: 0;
   width: 100px;
   height: 100px;
+  box-shadow: 10px 10px 5px #888888;
 }
 
 .coloredButton {
-  top: 15%;
+  top: 20%;
 }
 
 .invisibleButton {
-  top: 45%;
+  top: 35%;
 }
 
 .squareItButton {
-  top: 30%;
+  top: 50%;
 }
 .thanksgivingButton {
-  top: 60%;
+  top: 65%;
 }
 
 .moveItButton {
-  top: 75%;
+  top: 80%;
 }
 
 button:focus {outline:0;}
